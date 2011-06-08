@@ -26,3 +26,4 @@ MAINTAINERCLEANFILES = \
 
 maintainer-clean-local:
 	-rm -fr m4/
+	-rm -rf swconfig-*
